@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvanani9
+- 👋 Hi, I’m Dhruvit Vanani.
 - 👀 I’m interested in doing real world projects and improving my practical knowledge with the technical skills learnt.
 - 🌱 I’m currently doing masters in compter science from the University of Southern California.
 - 💞️ I’m looking to collaborate on various coding challenges and technical events in Southern California or Bay Area.
