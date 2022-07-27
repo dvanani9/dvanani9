@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruvit Vanani.
 - 💞️ I’m actively seeking summer 2023 internship and full time opportunity.
 - 👀 I’m interested in doing real world projects and improving my practical knowledge with the technical skills learnt.
-- 🌱 I’m currently doing masters in compter science from the University of Southern California.
+- 🌱 I’m currently pursuing masters in compter science from the University of Southern California.
 - 📫 How to reach me : Email: dhruvitvanani@gmail.com or ping me on linkedin : linkedin.com/in/dhruvitvanani.
