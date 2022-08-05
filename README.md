@@ -29,14 +29,12 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Los Angeles.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- 🔭 I'm currently pursuing masters in computer science from University of Southern California
+- 🎯 I’m focusing on finding an software engineer internship for summer 2023.
+- 👬 I’m looking to collaborate on real world projects that help me develop technical skills to make a positive impact in the tech industry.
+- :zap: I’m currently learning Web Development and security systems.
 
 
 ---
@@ -65,4 +63,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanani9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
