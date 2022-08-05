@@ -12,6 +12,6 @@
   </a>
   
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20here-lightgrey" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-2F3134?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
