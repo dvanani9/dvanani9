@@ -3,15 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dhruvitvanani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="your-youtube-URL">
+  <a href="dhruvitvanani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail Badge"/>
   </a>
   
-  <a href="your-twitter-URL">
+  <a href="https://dvanani9.github.io/">
     <img src="https://img.shields.io/badge/portfolio-2F3134?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
