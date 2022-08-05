@@ -12,6 +12,6 @@
   </a>
   
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/endpoint?label=Portfolio" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20here-lightgrey" alt="Portfolio Badge"/>
   </a>
 </div>
