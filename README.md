@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail Badge"/>
   </a>
   
-  <a href="https://dvanani9.github.io/">
+  <a href="https://dvanani9.github.io/dvanani.github.io/">
     <img src="https://img.shields.io/badge/portfolio-2F3134?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
