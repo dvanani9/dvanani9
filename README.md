@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanani&layout=compact)](https://github.com/dvanani/github-readme-stats)
+![](https://raw.githubusercontent.com/dvanani/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dvanani?theme=dark)
 
