@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I'm currently pursuing masters in computer science from University of Southern California
 - 🎯 I’m focusing on finding an software engineer internship for summer 2023.
 - 👬 I’m looking to collaborate on real world projects that help me develop technical skills to make a positive impact in the tech industry.
-- :zap: I’m currently learning Web Development and Security Systems.
+- :zap: I’m currently learning Information Retrieval and Web Engines and Advanced Mobile Games and Consoles.
 
 
 ---
